@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d20ac356124ecf7478098428c54416dd
+timeCreated: 1637003935
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adobe Arabic SHIN
+  fontNames:
+  - Adobe Arabic SHIN
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6f6e073cf2438294b8386b4248432d6c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
